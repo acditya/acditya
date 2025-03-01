@@ -94,4 +94,4 @@
 
 ---
 
-🔥 **_Fun Fact:_** When I'm not coding, I'm probably hitting the gym or exploring AI breakthroughs! 💪🧠  
+🔥 **_Fun Fact:_** I hum/whistle a lot while working and have perfected the ability to whistle any song on demand, a good fit for talent shows at your company (pls hire me)! 💪🧠  
