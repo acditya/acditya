@@ -63,6 +63,14 @@
     <td>1st Place 🏅</td>
   </tr>
   <tr>
+     <td>Department of Culture and Tourism Hackathon 2023</td>
+     <td>1st Place 🏅</td>
+   </tr>
+  <tr>
+     <td>WTO MC13 Logisitcs Challenge</td>
+     <td>1st Place 🏅</td>
+   </tr>
+  <tr>
     <td>Green Campus Competition</td>
     <td>Finalist 🌱</td>
   </tr>
@@ -74,13 +82,9 @@
 
 ---
 
-## 🔥 **Cool Stuff: Snake Animation & Trophies**
+## 🔥 **Some Cool Stuff**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=acditya&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/acditya/acditya/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
