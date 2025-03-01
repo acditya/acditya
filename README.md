@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+there!+I'm+Aditya+Chatterjee+%F0%9F%91%8B;AI+Engineer+%7C+ML+Researcher+%7C+Tech+Enthusiast" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=800&height=70&lines=Hey+there!+I'm+Aditya+Chatterjee+%F0%9F%91%8B;AI+Engineer+%7C+ML+Researcher+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -47,11 +47,19 @@
     <th>🎖 Achievement</th>
   </tr>
   <tr>
-    <td>Kibo-RPC 2024</td>
-    <td>3rd Place (Regional Finals)</td>
+    <td>4th Annual Digital Transformation Hackathon</td>
+    <td>1st Place 🏆</td>
   </tr>
   <tr>
-    <td>AI for Good Hackathon</td>
+    <td>Nokia x NYU Slush'd AI for Good Hackathon</td>
+    <td>1st Place 🔥</td>
+  </tr>
+  <tr>
+    <td>NYUAD x Google 13th Annual Hackathon for Social Good (Quantum Computing)</td>
+    <td>Nominee 🚀</td>
+  </tr>
+  <tr>
+    <td>UAE Space Agency SpaceHacks 2024</td>
     <td>1st Place 🏅</td>
   </tr>
   <tr>
@@ -59,16 +67,8 @@
     <td>Finalist 🌱</td>
   </tr>
   <tr>
-    <td>NASA Space Apps Challenge</td>
-    <td>Winner 🚀</td>
-  </tr>
-  <tr>
-    <td>G42 AI Challenge</td>
-    <td>1st Place 🏆</td>
-  </tr>
-  <tr>
-    <td>KU Innovation Week</td>
-    <td>1st Place 🔥</td>
+    <td>NASA x JAXA x MBRSC Kibo-RPC 2024</td>
+    <td>3rd Place (Regional Finals) 🚀</td>
   </tr>
 </table>
 
@@ -85,20 +85,11 @@
 
 ---
 
-## 📌 **Featured Projects**
-🚀 **[Greenify](https://greenify.ku.ac.ae)** — A sustainability hub for students.  
-🤖 **[AI Interview Bot](https://github.com/acditya/ai-interview-bot)** — An AI-powered job interview assistant.  
-🔍 **[Speaker Recognition AI](https://github.com/acditya/voice-id)** — Cutting-edge voice analysis.  
-💡 **[Tabashir AI Services](https://tabashir.ae)** — AI-powered HR consulting.  
-
----
-
 ## 📬 **Connect with Me**
 <p align="center">
   <a href="https://linkedin.com/in/acditya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:achditya@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/acditya"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://tabashir.ae"><img src="https://img.shields.io/badge/Website-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
