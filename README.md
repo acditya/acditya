@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  <strong>AI/ML Engineer | Hackathon Winner 🏆 | Startup Enthusiast 🚀</strong>
+  <strong>AI/ML Engineer | Dual Majoring in CE & CS | Hackathon Winner 🏆 | Startup Enthusiast 🚀</strong>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 🌟 **About Me**
 🚀 Passionate about **Generative AI, LLMs, ML Models, Data Science, and Startups.**  
 💡 Startup Enthusiast on **Human-Centric AI**
-🧠 Final Year Student at **Khalifa University** | Worked with G42, Space42/Bayanat.  
+🧠 Final Year Student at **Khalifa University** and **Goldsmiths, University of London** | Worked with G42, Space42/Bayanat.  
 🔥 **6x Hackathon Winner** | Check out my achievements below!  
 🎯 Currently working on an **unmanned aerial traffic management system with large language models**  
 
