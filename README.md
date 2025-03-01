@@ -10,11 +10,11 @@
 ---
 
 ## 🌟 **About Me**
-🚀 Passionate about **Generative AI, LLMs, ML Models, Data Science, and Startups.**  
-💡 Startup Enthusiast on **Human-Centric AI.**
-🎓 Final Year Student at **Khalifa University** and **Goldsmiths, University of London.**
-🧠 Worked with G42, Space42/Bayanat & engaged in Undergradaute Research!  
-🔥 **6x Hackathon Winner** | Check out my achievements below!  
+🚀 Passionate about **Generative AI, LLMs, ML Models, Data Science, and Startups.**<br>  
+💡 Startup Enthusiast on **Human-Centric AI.**<br>
+🎓 Final Year Student at **Khalifa University** and **Goldsmiths, University of London.**<br>
+🧠 Worked with G42, Space42/Bayanat & engaged in Undergradaute Research!<br>  
+🔥 **6x Hackathon Winner** | Check out my achievements below!<br>  
 🎯 Currently working on an **unmanned aerial traffic management system with large language models**  
 
 ---
