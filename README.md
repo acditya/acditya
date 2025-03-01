@@ -20,7 +20,7 @@
 
 ## 🚀 **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,c++,java,javascript,tensorflow,pytorch,flask,django,sqlite,postgresql,react,vercel,linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,tensorflow,pytorch,flask,django,sqlite,postgresql,react,vercel,linux,docker,git,github" />
 </p>
 
 ---
