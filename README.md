@@ -27,6 +27,14 @@
 
 ## 📊 **GitHub Stats & Contributions**
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acditya&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acditya&theme=radical&hide_border=true" alt="GitHub Commit History" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=acditya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
