@@ -11,16 +11,16 @@
 
 ## 🌟 **About Me**
 🚀 Passionate about **Generative AI, LLMs, ML Models, Data Science, and Startups.**  
-💡 Creator of **Tabashir Consultancy** | Innovating AI-driven HR solutions.  
-🧠 Final Year Student at **Khalifa University** | Working with G42, Bayanat.  
+💡 Startup Enthusiast on **Human-Centric AI**
+🧠 Final Year Student at **Khalifa University** | Worked with G42, Space42/Bayanat.  
 🔥 **6x Hackathon Winner** | Check out my achievements below!  
-🎯 Currently working on **automated person recognition using CCTV & AI-driven HR solutions.**  
+🎯 Currently working on an **unmanned aerial traffic management system with large language models**  
 
 ---
 
 ## 🚀 **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,django,sqlite,postgresql,react,nextjs,tailwind,vercel,linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,c++,java,javascript,tensorflow,pytorch,flask,django,sqlite,postgresql,react,vercel,linux,docker,git,github" />
 </p>
 
 ---
