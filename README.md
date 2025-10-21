@@ -24,11 +24,11 @@
 ## 🌟 About Me
 🚀 Passionate about **Generative AI, LLMs, ML Models, Data Science, and Startups**  
 💡 Startup Enthusiast on **Human-Centric AI**  
-🎓 Final Year Student at **Khalifa University** and **Goldsmiths, University of London**  
+🎓 BSc Computer Engineering and Computer Science Graduate from **Khalifa University** and **Goldsmiths, University of London**  
 🧠 Worked with **G42**, **Space42/Bayanat**, and engaged in **Undergraduate Research**  
 🔥 **12x+ Hackathon Winner** — from AI to SpaceTech, see below  
 🌍 **UN Young AI Leader (Abu Dhabi Hub)** — driving AI for Social Good  
-🏁 **startAD × Google.org Sandbox Finalist** — top 1000+ ventures in impact innovation  
+🏁 **startAD × Google.org Sandbox Finalist** — from 1000+ applicants  
 🛰️ Built DroneLM an **Unmanned Aerial Traffic Management System using LLMs (UTM-LLM)**
 
 <p align="center">
