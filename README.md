@@ -56,10 +56,10 @@
 
 ## 📊 GitHub Stats & Contributions
 <div align="center">
-  <img src="https://github-readme-stats-mc0t2abhx-acdityas-projects.vercel.app/api?username=acditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://https://github-readme-stats-acdityas-projects.vercel.app//api?username=acditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=acditya&theme=tokyonight&hide_border=true" height="170"/>
   <br/><br/>
-  <img src="https://github-readme-stats-mc0t2abhx-acdityas-projects.vercel.app/api/top-langs/?username=acditya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://https://github-readme-stats-acdityas-projects.vercel.app//api/top-langs/?username=acditya&layout=compact&theme=tokyonight&hide_border=true"/>
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=acditya&theme=tokyo-night&hide_border=true"/>
   <br/><br/>
