@@ -29,7 +29,7 @@
 🔥 **12x+ Hackathon Winner** — from AI to SpaceTech, see below  
 🌍 **UN Young AI Leader (Abu Dhabi Hub)** — driving AI for Social Good  
 🏁 **startAD × Google.org Sandbox Finalist** — top 1000+ ventures in impact innovation  
-🛰️ Building an **unmanned aerial traffic management system using LLMs**
+🛰️ Built DroneLM an **Unmanned Aerial Traffic Management System using LLMs (UTM-LLM)**
 
 <p align="center">
   <a href="https://aditya-chatterjee.com"><img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://aditya-chatterjee.com" alt="QR"/></a>
