@@ -75,20 +75,19 @@
 
 <table align="center">
   <tr><th>🏆 Hackathon / Program</th><th>🎖 Achievement</th></tr>
-  <tr><td>Yapless — BCG Platinion Hackathon 2025 (Africa · ME · S Europe)</td><td>1st Place 🏆</td></tr>
-  <tr><td>Baian Innovation Award 2025 (Congress of Arabic & Creative Industries)</td><td>1st Place 🏆</td></tr>
+  <tr><td>Yapless — BCG Platinion Hackathon 2025 (Africa · ME · S Europe)</td><td>1st Place 🏅</td></tr>
+  <tr><td>Baian Innovation Award 2025 (Congress of Arabic & Creative Industries)</td><td>1st Place 🏅</td></tr>
   <tr><td>DroneLM — Undergraduate Research & Innovation Competition (ADU)</td><td>2nd Place 🥈</td></tr>
-  <tr><td>Mindprint Innovation Hackathon 2025 (UAE MOHAP)</td><td>1st Place 🏆</td></tr>
+  <tr><td>Mindprint Innovation Hackathon 2025 (UAE MOHAP)</td><td>1st Place 🏅</td></tr>
   <tr><td>FlyQ — The CrowdLabel Challenge (TII)</td><td>Global Best Idea Award 🌍</td></tr>
-  <tr><td>F.A.L.C.O.N Digital Transformation Hackathon (Dubai Police & MBRSC)</td><td>1st Place 🏆</td></tr>
-  <tr><td>Socia ADCCI × Nokia × startAD AI for Good Hackathon (Slush’d 2025)</td><td>1st Place 🔥</td></tr>
-  <tr><td>F.L.O.R.E.S SpaceHacks (UAE Space Agency)</td><td>1st Place 🏆</td></tr>
-  <tr><td>4th Annual Digital Transformation Hackathon</td><td>1st Place 🏆</td></tr>
+  <tr><td>F.A.L.C.O.N Digital Transformation Hackathon (Dubai Police & MBRSC)</td><td>1st Place 🏅</td></tr>
+  <tr><td>Socia ADCCI × Nokia × startAD AI for Good Hackathon (Slush’d 2025)</td><td>1st Place 🏅</td></tr>
+  <tr><td>F.L.O.R.E.S SpaceHacks (UAE Space Agency)</td><td>1st Place 🏅</td></tr>
+  <tr><td>4th Annual Digital Transformation Hackathon</td><td>1st Place 🏅</td></tr>
   <tr><td>WTO MC13 Logistics Challenge</td><td>1st Place 🏅</td></tr>
   <tr><td>Dept. of Culture & Tourism Hackathon 2023</td><td>1st Place 🏅</td></tr>
-  <tr><td>Green Campus Competition</td><td>Finalist 🌱</td></tr>
   <tr><td>NASA × JAXA × MBRSC Kibo-RPC 2024</td><td>3rd Place (Regional Finals) 🚀</td></tr>
-  <tr><td>startAD × Google.org Sandbox Program</td><td>Finalist (Top 1000+) ⭐</td></tr>
+  <tr><td>startAD × Google.org Sandbox Program</td><td>Finalist (~50/1000+) ⭐</td></tr>
 </table>
 
 <p align="center"><img src="assets/glow-divider.svg" width="72%"/></p>
