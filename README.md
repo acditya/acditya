@@ -87,7 +87,7 @@
   <tr><td>WTO MC13 Logistics Challenge</td><td>1st Place 🏅</td></tr>
   <tr><td>Dept. of Culture & Tourism Hackathon 2023</td><td>1st Place 🏅</td></tr>
   <tr><td>NASA × JAXA × MBRSC Kibo-RPC 2024</td><td>3rd Place (Regional Finals) 🚀</td></tr>
-  <tr><td>startAD × Google.org Sandbox Program</td><td>Finalist (~50/1000+) ⭐</td></tr>
+  <tr><td>startAD × Google.org Sandbox Program</td><td>3rd Place (~3rd/1000+) ⭐</td></tr>
 </table>
 
 <p align="center"><img src="assets/glow-divider.svg" width="72%"/></p>
